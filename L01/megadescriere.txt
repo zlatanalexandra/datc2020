@@ -1,0 +1,4 @@
+Mega este o aplicatie foarte simpla pe sistemul de operare al celor de la Google si in acelasi timp una foarte eficienta, avand in vedere ca este asociata o platforma de stocat fisiere pe termen lung.
+ Aceasta va permite sa va accesati toate fisierele din cloud, sa urcati si sa descarcati rapid fisiere pe si de pe serverele Mega, sa va configurati urcarea automata a pozelor si clipurilor pe serviciul omonim de pe aparat.
+ Un alt avantaj este ca intreaga baza de date cu fisierele personale este indexata, motiv pentru care puteti si sa gasiti cu usurinta un document pe care il cautati dupa nume. 
+Daca vreti sa partajati diverse informatii cu prieteni si apropiati, din acelasi program puteti crea link-uri catre fisierele voastre de pe serverele companiei lui Dotcom.

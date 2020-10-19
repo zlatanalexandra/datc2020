@@ -1,0 +1,5 @@
+C:\Users\zlata\source\repos\TEMA4\TEMA4\obj\Debug\netcoreapp3.1\TEMA4.AssemblyInfoInputs.cache
+C:\Users\zlata\source\repos\TEMA4\TEMA4\obj\Debug\netcoreapp3.1\TEMA4.AssemblyInfo.cs
+C:\Users\zlata\source\repos\TEMA4\TEMA4\obj\Debug\netcoreapp3.1\TEMA4.csproj.CoreCompileInputs.cache
+C:\Users\zlata\source\repos\TEMA4\TEMA4\bin\Debug\netcoreapp3.1\TEMA4.exe
+C:\Users\zlata\source\repos\TEMA4\TEMA4\obj\Debug\netcoreapp3.1\TEMA4.csprojAssemblyReference.cache
